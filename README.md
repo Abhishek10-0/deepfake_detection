@@ -1,7 +1,5 @@
 # Deepfake-AI
 
-A full-stack web application for detecting deepfake videos using deep learning. Users can upload a video, and the system will analyze it to determine if it is genuine or a deepfake, providing a confidence score.
-
 ## Features
 - **Deepfake Detection:** Upload a video and receive a prediction (Genuine or Deepfake) with confidence.
 - **Face Detection:** Uses OpenCV to focus on faces in video frames for more accurate analysis.
@@ -86,3 +84,6 @@ deepfake-ai/
 
 ## License
 MIT (or specify your license) 
+
+## Contact
+For questions, support, or to get in touch with the Deepfake-AI team, please visit the website and use the contact or feedback section provided. We welcome your feedback and inquiries! 
